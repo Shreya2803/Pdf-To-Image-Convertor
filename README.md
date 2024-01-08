@@ -3,8 +3,7 @@ This repository provides tools to scrape PDF links from webpages, convert these 
 This tool facilitates the conversion of PDF documents to images, offering both scraping capabilities for web-based PDFs and direct conversion functionalities.
 
 # Workflow:
-Scraping PDF Links:
-
+Scraping PDF Links [https://github.com/Shreya2803/Pdf-To-Image-Convertor/blob/main/PDF2Image.ipynb] :
 The tool identifies and extracts PDF links from specified webpages.
 Cons: Some links may not exist or might point to different language PDFs. It's advisable to manually check and filter the links before proceeding.
 Converting PDFs to Images:
