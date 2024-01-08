@@ -11,6 +11,7 @@ Converting PDFs to Images:
 
 # Direct PDF Links: 
 [https://github.com/Shreya2803/Pdf-To-Image-Convertor/blob/main/PDF2Image.ipynb]
+<br>
 The tool directly converts the PDFs from the provided links into images.
 Cons: Not all PDF links might be directly convertible. If issues arise, the PDFs need to be downloaded first and then processed.
 # From Downloaded PDFs:
