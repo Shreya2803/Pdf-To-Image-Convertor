@@ -9,9 +9,11 @@ The tool identifies and extracts PDF links from specified webpages.
 Cons: Some links may not exist or might point to different language PDFs. It's advisable to manually check and filter the links before proceeding.
 Converting PDFs to Images:
 
-# Direct PDF Links: The tool directly converts the PDFs from the provided links into images.
+# Direct PDF Links: 
+The tool directly converts the PDFs from the provided links into images.
 Cons: Not all PDF links might be directly convertible. If issues arise, the PDFs need to be downloaded first and then processed.
-# From Downloaded PDFs: If the direct conversion fails, users can manually download the PDFs and provide their paths for conversion.
+# From Downloaded PDFs:
+If the direct conversion fails, users can manually download the PDFs and provide their paths for conversion.
 Cons: For platforms like Google Colab without a pro version, it's recommended to process a limited number of PDFs at once due to potential resource constraints.
 # File Count:
 
